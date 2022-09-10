@@ -6,4 +6,4 @@ function printMe() {
     i++;
   }
 
-export { printMe 
+export { printMe }
